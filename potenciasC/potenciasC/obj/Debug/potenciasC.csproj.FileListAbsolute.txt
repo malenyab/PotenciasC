@@ -1,0 +1,9 @@
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\bin\Debug\potenciasC.exe.config
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\bin\Debug\potenciasC.exe
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\bin\Debug\potenciasC.pdb
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.csprojResolveAssemblyReference.cache
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.Form1.resources
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.Properties.Resources.resources
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.csproj.GenerateResource.Cache
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.exe
+c:\users\malen\documents\visual studio 2012\Projects\potenciasC\potenciasC\obj\Debug\potenciasC.pdb
